@@ -1,7 +1,3 @@
----
-title: Carl George
----
-
 # Carl George
 
 **8918 Natalie Point**  
