@@ -1,0 +1,42 @@
+<!doctype html>
+
+<!--
+Based on https://github.com/pages-themes/minimal/blob/bc1c4d70af06dca9f0abb32b434bc220b5a83ae9/_layouts/default.html
+-->
+
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>{{ site.title }}</h1>
+
+        <p class="view">8918 Natalie Point</p>
+        <p class="view">San Antonio, Texas 78254</p>
+        <p class="view">210-999-0350</p>
+        <p class="view"><a href="mailto:carl@george.computer" rel="me">carl@george.computer</a></p>
+        <p class="view"><a href="/carl-george-resume.txt">plain text resume</a></p>
+        <p class="view"><a href="/carl-george-resume.pdf">PDF resume</a></p>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <link href="https://github.com/carlwgeorge" rel="me">
+        <link href="https://twitter.com/carlwgeorge" rel="me">
+        <link href="https://www.linkedin.com/in/carlwgeorge/" rel="me">
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
