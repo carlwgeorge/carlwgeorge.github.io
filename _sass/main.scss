@@ -1,0 +1,23 @@
+body {
+    margin: 40px auto;
+    max-width: 800px;
+    line-height: 1.2;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 16px;
+    color: #444;
+    padding: 0 10px;
+}
+
+a, a:visited {
+    color: #07a;
+}
+
+code {
+    background: #F0F0F0;
+}
+
+pre code {
+    display: block;
+    overflow-x: auto;
+    padding: 0.5em;
+}
