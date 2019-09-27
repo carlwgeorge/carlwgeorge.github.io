@@ -1,14 +1,48 @@
 <!doctype html>
-<html>
+<html lang="en">
+
     <head>
-        <meta charset="utf-8">
-        <title>{{ page.title }}</title>
-        <link rel="stylesheet" href="/assets/css/styles.css">
+        {% include head.html %}
     </head>
-    <body class="current">
-        {{ content }}
+
+    <body>
+
+        <main>
+
+            <section class="section">
+                <div class="container">
+                    <div class="columns is-centered">
+                        <div class="column is-12-tablet is-10-desktop">
+
+                            {% include header.html %}
+
+                            <div class="is-divider"></div>
+
+                            {% include mission.html %}
+
+                            <div class="is-divider"></div>
+
+                            {% include skills.html %}
+
+                            <div class="is-divider"></div>
+
+                            {% include history.html %}
+
+                            <div class="is-divider"></div>
+
+                            {% include training.html %}
+
+                        </div> <!-- column -->
+                    </div> <!-- columns -->
+                </div> <!-- container -->
+            </section>
+
+        </main>
+
+        <footer class="footer">
+            {% include footer.html %}
+        </footer>
+
     </body>
-    <footer>
-        {% include footer.html %}
-    </footer>
+
 </html>
