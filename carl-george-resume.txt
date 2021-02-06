@@ -1,9 +1,5 @@
 Carl George
 Linux Systems Engineer
-
-8918 Natalie Point
-San Antonio, Texas 78254
-210-999-0350
 carl@george.computer
 
 
@@ -29,6 +25,11 @@ Ansible automation
 
 
 EMPLOYMENT HISTORY
+
+* Principal Software Engineer, Red Hat
+  2019-present, San Antonio, TX
+
+- The next adventure...
 
 * Linux Systems Engineer, Rackspace
   2014-present, San Antonio, TX
