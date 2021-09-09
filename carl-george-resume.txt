@@ -14,14 +14,14 @@ PRIMARY SKILLS
 
 RPM Packaging
 Yum repository curation
+Ansible automation
 Webserver configuration
 Database management
 Containers
 Python programming
 Bash scripting
+Systemd management
 Disk partitioning
-Systemd unit files
-Ansible automation
 
 
 EMPLOYMENT HISTORY
@@ -29,7 +29,21 @@ EMPLOYMENT HISTORY
 * Principal Software Engineer, Red Hat
   2019-present, San Antonio, TX
 
-- The next adventure...
+- Built packages and modules for CentOS 8 and CentOS Stream 8.
+- Created new CentOS release and repository packages to complete split of the distributions.
+- Developed robust upgrade process for converting from CentOS 8 to CentOS Stream 8.
+- Engaged with partners and community members to drive contributions to CentOS Stream 8.
+- Collaborated with RHEL maintainers to merge CentOS modifications into RHEL packages to reduce non-value add work.
+- Lead development of EPEL Next to solve EPEL package installation problems on CentOS Stream.
+- Lead effort to deliver CentOS Stream 9 via MirrorManager.
+- Modified CentOS delivery pipeline to enable downgrading packages via dnf.
+- Created various scripts to streamline routine tasks related to package and module building.
+- Maintained koji tag structure and build targets.
+- Expanded team and public documentation.
+- Created and maintained RPM packages in Fedora and EPEL.
+- Fedora package reviews for partners and community members.
+- Collaborated with upstream projects to report and resolve bugs in packaged software.
+- Continuous engagement with CentOS, EPEL, RHEL, and Fedora communities.
 
 * Linux Systems Engineer, Rackspace
   2014-present, San Antonio, TX
