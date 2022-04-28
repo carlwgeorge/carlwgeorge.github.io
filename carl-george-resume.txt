@@ -30,7 +30,7 @@ EMPLOYMENT HISTORY
   2021-present, San Antonio, TX
 
 - Planned, coordinated, and implemented the launch of EPEL 9, which for the first time ever was
-  completed months <em>before</em> the corresponding RHEL release.
+  completed months before the corresponding RHEL release.
 - Engaged with peers, partners, and community members to curate a broad selection of packages in
   EPEL.
 - Implemented and maintained policies and procedures as a member of the EPEL Steering Committee and
