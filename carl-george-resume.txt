@@ -1,5 +1,5 @@
 Carl George
-Linux Systems Engineer
+Software Engineer
 carl@george.computer
 
 
@@ -26,15 +26,35 @@ Disk partitioning
 
 EMPLOYMENT HISTORY
 
+* Principal Software Engineer and Team Lead, Red Hat
+  2021-present, San Antonio, TX
+
+- Planned, coordinated, and implemented the launch of EPEL 9, which for the first time ever was
+  completed months <em>before</em> the corresponding RHEL release.
+- Engaged with peers, partners, and community members to curate a broad selection of packages in
+  EPEL.
+- Implemented and maintained policies and procedures as a member of the EPEL Steering Committee and
+  the Fedora Packaging Committee.
+- Sponsored new packagers into the Fedora project, providing ongoing mentorship on packaging
+  standards.
+- Resolved Fedora build failures related to major changes such as Python 3.11, Pytest 7, and
+  OpenSSL 3.
+- Refreshed Fedora Python spec files to the latest build macro standards.
+- Created and maintained RPM packages in Fedora and EPEL.
+- Fedora package reviews for partners and community members.
+- Collaborated with upstream projects to report and resolve bugs in packaged software.
+- Continuous engagement with CentOS, EPEL, RHEL, and Fedora communities.
+
 * Principal Software Engineer, Red Hat
-  2019-present, San Antonio, TX
+  2019-2021, San Antonio, TX
 
 - Built packages and modules for CentOS 8 and CentOS Stream 8.
 - Created new CentOS release and repository packages to complete split of the distributions.
 - Developed robust upgrade process for converting from CentOS 8 to CentOS Stream 8.
 - Engaged with partners and community members to drive contributions to CentOS Stream 8.
-- Collaborated with RHEL maintainers to merge CentOS modifications into RHEL packages to reduce non-value add work.
-- Lead development of EPEL Next to solve EPEL package installation problems on CentOS Stream.
+- Collaborated with RHEL maintainers to merge CentOS modifications into RHEL packages to reduce
+  non-value add work.
+- Designed and created EPEL Next to solve EPEL package installation problems on CentOS Stream.
 - Lead effort to deliver CentOS Stream 9 via MirrorManager.
 - Modified CentOS delivery pipeline to enable downgrading packages via dnf.
 - Created various scripts to streamline routine tasks related to package and module building.
@@ -46,7 +66,7 @@ EMPLOYMENT HISTORY
 - Continuous engagement with CentOS, EPEL, RHEL, and Fedora communities.
 
 * Linux Systems Engineer, Rackspace
-  2014-present, San Antonio, TX
+  2014-2019, San Antonio, TX
 
 - Created and maintained RPM packages for IUS, EPEL, and Fedora.
 - Maintained build and repository infrastructure for the IUS project.
@@ -98,7 +118,7 @@ EMPLOYMENT HISTORY
   proficiency.
 - Trained multiple Technical Inspectors to assist with enforcing standard operating procedures.
 - Optimized unit's electronic maintenance system for technical accuracy and efficiency.  Changes
-  were later adopted by entire U.S. Army.
+  were later adopted by all U.S. Army Shadow UAV units.
 
 * Intelligence Systems Maintainer, U.S. Army
   2003-2004, Fort Huachuca, AZ
